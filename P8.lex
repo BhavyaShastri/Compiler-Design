@@ -1,4 +1,4 @@
-//LEX PRogram to extract all html tags at runtime and store it ina file.
+//LEX Program to extract all html tags at runtime and store it in a file.
 
 %{
 %}
